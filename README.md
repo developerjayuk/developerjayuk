@@ -31,7 +31,7 @@ To see what I've been working on for each technology please use the table below:
 | Xamarin    | https://github.com/jasonj85/playground-xamarin |
 
 My developer profile which was built using the MERN (Mongo, Express, React, Node) stack can be seen at:  
-https://developerJay.uk
+https://developerJay.uk  
 https://github.com/jasonj85/developerjay
 
 ## Latest projects
