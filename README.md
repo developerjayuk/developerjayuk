@@ -15,35 +15,45 @@ The areas of real focus as of September 2020 for myself are: (these will change 
 
 ### I, Robot Comedian
 URL: https://jasonj85.github.io/playground-javascript/i-robot-comedian/
+
 TECH: Javascript
+
 INFO:
 * Just a robot comedian trying to make it in the stand up comedy world
 * Uses 2 free APIs, 1 to serve programming jokes and 1 to convert text to speech
 
 ### Picture in Picture
 URL: https://jasonj85.github.io/playground-javascript/picture-in-picture/
+
 TECH: Javascript
+
 INFO:
 * This app allows users to create a picture in picture environment on their screen
 * Functionality is supported by most modern browsers such as Chrome and Firefox
 
 ### Inifinite Scroll
 URL: https://jasonj85.github.io/playground-javascript/infinite-scroll/
+
 TECH: Javascript
+
 INFO: 
 * This app allows users to infinity scroll images 
 * Image are lazy loaded via a free image API
 
 ### Quote Generator
 URL: https://jasonj85.github.io/playground-javascript/quote-generator/
+
 TECH: Javascript
+
 INFO:
 * This app creates quotes using an API
 * Allows users to post the quote to their Twitter account
 
 ### Pig Dice Game
 URL: https://jasonj85.github.io/playground-javascript/Pig-Dice-Game/
+
 TECH: Javascript
+
 INFO:
 * This game is designed for 2 players
 * Each player rolls the dice to add to their round score
