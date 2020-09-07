@@ -1,3 +1,5 @@
+![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
+
 ### Hi there 👋 and welcome to my profile
 
 ## Who am I?
