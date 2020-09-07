@@ -11,6 +11,27 @@ The areas of real focus as of September 2020 for myself are: (these will change 
 * Unit testing
 * Progressive web apps
 
+## Navigation
+To see what I've been working on for each technology please use the table below:
+
+| Technology |                   Repository                   |
+|:----------:|------------------------------------------------|
+| Angular    | https://github.com/jasonj85/playground-angular |
+| Bootstrap  | https://github.com/jasonj85/playground-bootstrap  https://github.com/jasonj85/playground-bootstrap4 |
+| CSS        | https://github.com/jasonj85/playground-advanced-css |
+| DI         | https://github.com/jasonj85/dependency-injection |
+| Javascript | https://github.com/jasonj85/playground-javascript |  
+| JQuery     | https://github.com/jasonj85/playground-jquery |
+|  Node      | https://github.com/jasonj85/playground-nodejs  |
+| PWA        | https://github.com/jasonj85/playground-progressive-web-apps |
+| React      | https://github.com/jasonj85/playground-react |
+| RXJS       | https://github.com/jasonj85/playground-rxjs |
+| Xamarin    | https://github.com/jasonj85/playground-xamarin |
+
+My developer profile which was built using the MERN (Mongo, Express, React, Node) stack can be seen at:  
+https://developerJay.uk
+https://github.com/jasonj85/developerjay
+
 ## Latest projects
 
 ### I, Robot Comedian
