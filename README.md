@@ -51,6 +51,13 @@ https://github.com/jasonj85/developerjay
 **INFO**:
 * App that searches the breaking bad API and filters all the characters
 
+### Bootstrap 4
+**DEMO**: https://jasonj85.github.io/playground-bootstrap4/2_2_basic_typography.html  
+**REPO**: https://github.com/jasonj85/playground-bootstrap4  
+**TECH**: Bootstrap (version 4)  
+**INFO**: 
+* Demo of all the features available in bootstrap version 4
+
 ### Picture in Picture
 **DEMO**: https://jasonj85.github.io/playground-javascript/picture-in-picture  
 **REPO**: https://github.com/jasonj85/playground-javascript/tree/master/picture-in-picture  
