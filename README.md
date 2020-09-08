@@ -48,7 +48,7 @@ https://github.com/jasonj85/developerjay
 **DEMO**: https://breaking-bad-api-nu.vercel.app  
 **REPO**: https://github.com/jasonj85/playground-react/tree/master/breaking-bad-api  
 **TECH**: React  
-**INFO**: 
+**INFO**:
 * App that searches the breaking bad API and filters all the characters
 
 ### Picture in Picture
@@ -83,8 +83,8 @@ https://github.com/jasonj85/developerjay
 * Allows users to post the quote to their Twitter account
 
 ### Pig Dice Game
-**DEMO**: https://jasonj85.github.io/playground-javascript/Pig-Dice-Game/  
-**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/Pig-Dice-Game
+**DEMO**: https://jasonj85.github.io/playground-javascript/Pig-Dice-Game  
+**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/Pig-Dice-Game  
 **TECH**: Javascript  
 **INFO**:
 * This game is designed for 2 players
