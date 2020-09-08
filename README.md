@@ -37,39 +37,39 @@ https://github.com/jasonj85/developerjay
 ## Latest projects
 
 ### I, Robot Comedian
-**DEMO**: https://jasonj85.github.io/playground-javascript/i-robot-comedian/  
-**REPO**:
+**DEMO**: https://jasonj85.github.io/playground-javascript/i-robot-comedian   
+**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/i-robot-comedian  
 **TECH**: Javascript  
 **INFO**:
 * Just a robot comedian trying to make it in the stand up comedy world
 * Uses 2 free APIs, 1 to serve programming jokes and 1 to convert text to speech
 
 ### Breaking Bad API
-**DEMO**: https://breaking-bad-api-nu.vercel.app/
-**REPO**: https://github.com/jasonj85/playground-react/tree/master/breaking-bad-api
-**TECH**: React
+**DEMO**: https://breaking-bad-api-nu.vercel.app  
+**REPO**: https://github.com/jasonj85/playground-react/tree/master/breaking-bad-api  
+**TECH**: React  
 **INFO**: 
 * App that searches the breaking bad api and filters all the characters
 
 ### Picture in Picture
-**DEMO**: https://jasonj85.github.io/playground-javascript/picture-in-picture/  
-**REPO**:
+**DEMO**: https://jasonj85.github.io/playground-javascript/picture-in-picture  
+**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/picture-in-picture  
 **TECH**: Javascript  
 **INFO**:
 * This app allows users to create a picture in picture environment on their screen
 * Functionality is supported by most modern browsers such as Chrome and Firefox
 
 ### Inifinite Scroll
-**DEMO**: https://jasonj85.github.io/playground-javascript/infinite-scroll/  
-**REPO**:
+**DEMO**: https://jasonj85.github.io/playground-javascript/infinite-scroll  
+**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/infinite-scroll  
 **TECH**: Javascript  
 **INFO**: 
 * This app allows users to infinity scroll images 
 * Image are lazy loaded via a free image API
 
 ### Quote Generator
-**DEMO**: https://jasonj85.github.io/playground-javascript/quote-generator/ 
-**REPO**: 
+**DEMO**: https://jasonj85.github.io/playground-javascript/quote-generator  
+**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/quote-generator  
 **TECH**: Javascript  
 **INFO**:
 * This app creates quotes using an API
