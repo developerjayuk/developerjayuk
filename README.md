@@ -49,7 +49,7 @@ https://github.com/jasonj85/developerjay
 **REPO**: https://github.com/jasonj85/playground-react/tree/master/breaking-bad-api  
 **TECH**: React  
 **INFO**: 
-* App that searches the breaking bad api and filters all the characters
+* App that searches the breaking bad API and filters all the characters
 
 ### Picture in Picture
 **DEMO**: https://jasonj85.github.io/playground-javascript/picture-in-picture  
@@ -58,6 +58,13 @@ https://github.com/jasonj85/developerjay
 **INFO**:
 * This app allows users to create a picture in picture environment on their screen
 * Functionality is supported by most modern browsers such as Chrome and Firefox
+
+### Github Jobs API
+**DEMO**: https://breaking-bad-api-nu.vercel.app  
+**REPO**: https://github-jobs-api-qwlkbn789.vercel.app  
+**TECH**: React  
+**INFO**: 
+* An app that allows filtering of live jobs from the github jobs API
 
 ### Inifinite Scroll
 **DEMO**: https://jasonj85.github.io/playground-javascript/infinite-scroll  
