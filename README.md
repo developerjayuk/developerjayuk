@@ -27,6 +27,7 @@ To see what I've been working on for each technology please use the table below:
 |  Node      | https://github.com/jasonj85/playground-nodejs  |
 | PWA        | https://github.com/jasonj85/playground-progressive-web-apps |
 | React      | https://github.com/jasonj85/playground-react |
+| RESTFul API | https://github.com/jasonj85/RESTful-API-2019 |
 | RXJS       | https://github.com/jasonj85/playground-rxjs |
 | Xamarin    | https://github.com/jasonj85/playground-xamarin |
 
@@ -35,6 +36,7 @@ https://developerJay.uk
 https://github.com/jasonj85/developerjay
 
 ## Pinned projects
+Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun. This obviously does not include any of the many large professional projects I've worked on for 10+ years.
 
 ### Developer Jay Profile 
 **DEMO**: http://developerjay.uk    
