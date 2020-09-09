@@ -34,7 +34,14 @@ My developer profile which was built using the MERN (Mongo, Express, React, Node
 https://developerJay.uk  
 https://github.com/jasonj85/developerjay
 
-## Latest projects
+## Pinned projects
+
+### Developer Jay Profile 
+**DEMO**: http://developerjay.uk    
+**REPO**: https://github.com/jasonj85/developerjay  
+**TECH**: MERN stack  
+**INFO**: 
+* Site to display developer profiles
 
 ### I, Robot Comedian
 **DEMO**: https://jasonj85.github.io/playground-javascript/i-robot-comedian   
