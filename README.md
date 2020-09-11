@@ -2,7 +2,7 @@
 
 ### Hi there 👋 and welcome to my profile
 
-## Who am I?
+## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
@@ -13,7 +13,7 @@ The areas of real focus as of September 2020 for myself are: (these will change 
 * Unit testing
 * Progressive web apps
 
-## Development Experience ✔️✔️
+## ✔️ Development Experience ✔️
 Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
 
 | Area             |     Tech (including)        |     Professional Experience      |
@@ -28,7 +28,7 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 | NoSQL Databases  |  MongoDb                    |  ~2 years                        |
 | APIs             |  GraphQL                    |  ~2 years                        |
 
-## Repository Navigation
+## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
 
 | Technology |                   Repository                   |
