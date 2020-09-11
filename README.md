@@ -35,8 +35,17 @@ My developer profile which was built using the MERN (Mongo, Express, React, Node
 https://developerJay.uk  
 https://github.com/jasonj85/developerjay
 
-## Pinned projects
-Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun. This obviously does not include any of the many large professional projects I've worked on for 10+ years.
+## 🌟 Pinned projects 🌟
+Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun. 
+❗ This obviously does not include any of the many large professional projects I've worked on for 10+ years.
+
+### Movie Geek
+**DEMO**: https://movie-geek.vercel.app      
+**REPO**: https://github.com/jasonj85/playground-angular/tree/master/movie-geek-pwa 
+**TECH**: Angular as a Progressive Web App 
+**INFO**: 
+* Demo site that allows users to search through a movie API
+* A progressive web app that is installable as an app on modern browsers and smart phones
 
 ### Developer Jay Profile 
 **DEMO**: http://developerjay.uk    
