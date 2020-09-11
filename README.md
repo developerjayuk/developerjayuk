@@ -17,7 +17,7 @@ The areas of real focus as of September 2020 for myself are: (these will change 
 Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
 
 | Area             |     Tech (including)        |     Professional Experience      |
-|:----------------:|----------------------------------------------------------------|
+|:----------------:|-----------------------------|----------------------------------|
 | FE basics        |  HTML, CSS, JS              |  ~12 years                       |
 | SQL Databases    |  SQL, MySQL                 |  ~12 years                       |
 | .Net             |  C#, .Net, .Net Core        |  ~12 years                       |
