@@ -13,7 +13,22 @@ The areas of real focus as of September 2020 for myself are: (these will change 
 * Unit testing
 * Progressive web apps
 
-## Navigation
+## Development Experience ✔️✔️
+Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
+
+| Area             |     Tech (including)        |     Professional Experience      |
+|:----------------:|----------------------------------------------------------------|
+| FE basics        |  HTML, CSS, JS              |  ~12 years                       |
+| SQL Databases    |  SQL, MySQL                 |  ~12 years                       |
+| .Net             |  C#, .Net, .Net Core        |  ~12 years                       |
+| APIs             |  RESTFul, WebAPI            |  ~10 years                       |
+| JS Frameworks    |  Angular, React             |  ~7 years                        |
+| Backend          |  PHP                        |  ~5 years                        |
+| JS Backend       |  Node                       |  ~5 years                        |
+| NoSQL Databases  |  MongoDb                    |  ~2 years                        |
+| APIs             |  GraphQL                    |  ~2 years                        |
+
+## Repository Navigation
 To see what I've been working on for each technology please use the table below:
 
 | Technology |                   Repository                   |
