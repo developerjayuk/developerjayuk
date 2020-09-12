@@ -9,6 +9,7 @@ One of my absolute passions in life is learning and as such I've worked with a t
 
 The areas of real focus as of September 2020 for myself are: (these will change as time goes on)
 * Javascript frameworks - Angular and React
+* NestJs 
 * Node
 * Unit testing
 * Progressive web apps
@@ -39,6 +40,7 @@ To see what I've been working on for each technology please use the table below:
 | DI         | https://github.com/jasonj85/dependency-injection |
 | Javascript | https://github.com/jasonj85/playground-javascript |  
 | JQuery     | https://github.com/jasonj85/playground-jquery |
+| NestJs     | https://github.com/jasonj85/playground-nestjs |
 |  Node      | https://github.com/jasonj85/playground-nodejs  |
 | PWA        | https://github.com/jasonj85/playground-progressive-web-apps |
 | React      | https://github.com/jasonj85/playground-react |
