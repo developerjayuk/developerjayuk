@@ -57,13 +57,14 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 ❗ This obviously does not include any of the many large professional projects I've worked on for 10+ years.
 
 ### Quotes App and API
-**DEMO**: https://quotes-app-beige.vercel.app/quotes
-**API**: https://jj-nestjs-quotes-server.herokuapp.com/api/
-**REPO**: https://github.com/jasonj85/playground-nestjs/tree/master/quotes-app https://github.com/jasonj85/playground-nestjs/tree/master/quotes-server  
-**TECH**: NestJs + Swagger (API), Angular (FE), MongoDB 
-**INFO**: 
-* Demo site that allows users to create, edit, delete quotes
-* Demo of how to use NestJs to serve data and connect to frontend in Angular
+**DEMO**: https://quotes-app-beige.vercel.app/quotes  
+**API**: https://jj-nestjs-quotes-server.herokuapp.com/api  
+**REPO**: https://github.com/jasonj85/playground-nestjs/tree/master/quotes-app  
+**REPO**: https://github.com/jasonj85/playground-nestjs/tree/master/quotes-server   
+**TECH**: NestJs + Swagger (API), Angular (FE), MongoDB  
+**INFO**:  
+* Demo site that allows users to create, edit, delete quotes  
+* Demo of how to use NestJs to serve data and connect to frontend in Angular  
 
 ### Movie Geek
 **DEMO**: https://movie-geek.vercel.app      
