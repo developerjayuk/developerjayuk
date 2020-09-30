@@ -66,6 +66,13 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 * Demo site that allows users to create, edit, delete quotes  
 * Demo of how to use NestJs to serve data and connect to frontend in Angular  
 
+### Flexbox responsive demo
+**DEMO**: https://jasonj85.github.io/playground-advanced-css/Flexbox/
+**REPO**: https://github.com/jasonj85/playground-advanced-css/tree/master/Flexbox 
+**TECH**: HTML, CSS (flexbox)  
+**INFO**:
+* Responsive page using features of flexbox
+
 ### Movie Geek
 **DEMO**: https://movie-geek.vercel.app      
 **REPO**: https://github.com/jasonj85/playground-angular/tree/master/movie-geek-pwa  
