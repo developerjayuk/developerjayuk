@@ -67,8 +67,8 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 * Demo of how to use NestJs to serve data and connect to frontend in Angular  
 
 ### Flexbox responsive demo
-**DEMO**: https://jasonj85.github.io/playground-advanced-css/Flexbox/
-**REPO**: https://github.com/jasonj85/playground-advanced-css/tree/master/Flexbox 
+**DEMO**: https://jasonj85.github.io/playground-advanced-css/Flexbox  
+**REPO**: https://github.com/jasonj85/playground-advanced-css/tree/master/Flexbox  
 **TECH**: HTML, CSS (flexbox)  
 **INFO**:
 * Responsive page using features of flexbox
