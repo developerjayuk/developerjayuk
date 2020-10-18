@@ -26,8 +26,9 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 | JS Frameworks    |  Angular, React             |  ~7 years                        |
 | Backend          |  PHP                        |  ~5 years                        |
 | JS Backend       |  Node                       |  ~5 years                        |
-| NoSQL Databases  |  MongoDb                    |  ~2 years                        |
-| APIs             |  GraphQL                    |  ~2 years                        |
+| NoSQL Databases  |  MongoDb                    |  ~3 years                        |
+| Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
+| Other            |  GraphQL                    |  ~2 years                        |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
