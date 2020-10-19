@@ -42,6 +42,7 @@ To see what I've been working on for each technology please use the table below:
 | Javascript | https://github.com/jasonj85/playground-javascript |  
 | JQuery     | https://github.com/jasonj85/playground-jquery |
 | NestJs     | https://github.com/jasonj85/playground-nestjs |
+| .NET Core  | https://github.com/jasonj85/coachjay |
 |  Node      | https://github.com/jasonj85/playground-nodejs  |
 | PWA        | https://github.com/jasonj85/playground-progressive-web-apps |
 | React      | https://github.com/jasonj85/playground-react |
