@@ -7,7 +7,7 @@ My name is Jason and I've been a web developer for around 15+ years (if we inclu
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
-The areas of real focus as of September 2020 for myself are: (these will change as time goes on)
+The areas of real focus as of November 2020 for myself are: (these will change as time goes on)
 * Javascript frameworks - Angular and React
 * NestJs 
 * Node
