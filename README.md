@@ -69,11 +69,11 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 * Demo site that allows users to create, edit, delete quotes  
 * Demo of how to use NestJs to serve data and connect to frontend in Angular  
 
-## Demo of Tailwind CSS and js animations
-**DEMO**: https://jasonj85.github.io/playground-javascript/animated-template/
-**TECH**: Tailwind CSS, javascript animations 
-**INFO**:
-* Demo site using tailwind CSS and additional javascript animations
+## Demo of Tailwind CSS and js animations  
+**DEMO**: https://jasonj85.github.io/playground-javascript/animated-template/  
+**TECH**: Tailwind CSS, javascript animations   
+**INFO**:  
+* Demo site using tailwind CSS and additional javascript animations  
 
 ### Movie App using React Hooks
 **DEMO**: https://react-hooks-movie-app.vercel.app         
