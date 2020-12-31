@@ -7,12 +7,11 @@ My name is Jason and I've been a web developer for around 15+ years (if we inclu
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
-The areas of real focus as of November 2020 for myself are: (these will change as time goes on)
-* Javascript frameworks - Angular and React
-* NestJs 
-* Node
-* Unit testing
-* Progressive web apps
+The areas of real focus as of Jan 2021 for myself are: (these will change as time goes on)
+* React
+* Microservices
+* Typescript
+* Graphql
 
 ## ✔️ Development Experience ✔️
 Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
@@ -23,32 +22,35 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 | SQL Databases    |  SQL, MySQL                 |  ~12 years                       |
 | .Net             |  C#, .Net, .Net Core        |  ~12 years                       |
 | APIs             |  RESTFul, WebAPI            |  ~10 years                       |
-| JS Frameworks    |  Angular, React             |  ~7 years                        |
+| JS Frameworks    |  Angular, Typescript, React |  ~7 years                        |
 | Backend          |  PHP                        |  ~5 years                        |
 | JS Backend       |  Node                       |  ~5 years                        |
 | NoSQL Databases  |  MongoDb                    |  ~3 years                        |
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
 | Other            |  GraphQL                    |  ~2 years                        |
+| Other            |  Microservices              |  ~2 years                        |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
 
 | Technology |                   Repository                   |
 |:----------:|------------------------------------------------|
+| .NET       | https://github.com/jasonj85/playground-.net https://github.com/jasonj85/coachjay |
 | Angular    | https://github.com/jasonj85/playground-angular |
 | Bootstrap  | https://github.com/jasonj85/playground-bootstrap  https://github.com/jasonj85/playground-bootstrap4 |
 | CSS        | https://github.com/jasonj85/playground-advanced-css |
 | DI         | https://github.com/jasonj85/dependency-injection |
+| GraphQL    | https://github.com/jasonj85/playground-graphql | 
 | Javascript | https://github.com/jasonj85/playground-javascript |  
 | JQuery     | https://github.com/jasonj85/playground-jquery |
 | NestJs     | https://github.com/jasonj85/playground-nestjs |
-| .NET Core  | https://github.com/jasonj85/coachjay |
 |  Node      | https://github.com/jasonj85/playground-nodejs  |
 | PWA        | https://github.com/jasonj85/playground-progressive-web-apps |
 | React      | https://github.com/jasonj85/playground-react |
 | React Native | https://github.com/jasonj85/playground-react-native |
 | RESTFul API | https://github.com/jasonj85/RESTful-API-2019 |
 | RXJS       | https://github.com/jasonj85/playground-rxjs |
+| Typescript | https://github.com/jasonj85/playground-typescript |
 | Xamarin    | https://github.com/jasonj85/playground-xamarin |
 
 My developer profile which was built using the MERN (Mongo, Express, React, Node) stack can be seen at:  
