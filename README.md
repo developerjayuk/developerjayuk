@@ -7,10 +7,10 @@ My name is Jason and I've been a web developer for around 15+ years (if we inclu
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
-The areas of real focus as of Jan 2021 for myself are: (these will change as time goes on)
+The areas of real focus as of 2021 for myself are: (these will change as time goes on)
 * React
-* Microservices
-* Typescript
+* Mobx
+* .NET 5.0 
 * Graphql
 
 ## ✔️ Development Experience ✔️
@@ -29,6 +29,7 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
 | Other            |  GraphQL                    |  ~2 years                        |
 | Other            |  Microservices              |  ~2 years                        |
+| Other            |  Mobx                       |  ~1 years                        |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
