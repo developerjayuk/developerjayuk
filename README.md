@@ -11,7 +11,7 @@ The areas of real focus as of 2021 for myself are: (these will change as time go
 * React
 * Mobx
 * .NET 5.0 
-* Graphql
+* Entity Framework
 
 ## ✔️ Development Experience ✔️
 Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
