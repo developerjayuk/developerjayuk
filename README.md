@@ -7,11 +7,15 @@ My name is Jason and I've been a web developer for around 15+ years (if we inclu
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
-The areas of real focus as of 2021 for myself are: (these will change as time goes on)
+**My current areas of focus:** (these will change as time goes on)
 * React
 * Mobx
 * .NET 5.0 
 * Entity Framework
+
+**Books / Articles I'm enjoying**
+* Pragmatic Programmer ![book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
+* Reflections on 10,000 hours of programming ![book](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 
 ## ✔️ Development Experience ✔️
 Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
