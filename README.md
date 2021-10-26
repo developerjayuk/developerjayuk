@@ -14,8 +14,8 @@ One of my absolute passions in life is learning and as such I've worked with a t
 * Entity Framework
 
 **Books / Articles I'm enjoying**
-* Pragmatic Programmer ![book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
-* Reflections on 10,000 hours of programming ![book](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
+* Pragmatic Programmer - [book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
+* Reflections on 10,000 hours of programming - [article](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 
 ## ✔️ Development Experience ✔️
 Being the obsessive learner I am, I have dabbled with most areas of web development, but to summarise my experience more succinctly I will layout some of the main technologies sought after in developers
