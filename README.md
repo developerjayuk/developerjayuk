@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated Oct-2021)
+### Hi there 👋 and welcome to my profile (Updated Jan-2022)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -9,9 +9,9 @@ One of my absolute passions in life is learning and as such I've worked with a t
 
 **My current areas of focus:** (these will change as time goes on)
 * React
-* Mobx
-* .NET 5.0 
-* Entity Framework
+* .NET 5.0 (eCommerce)
+* svelte
+* solidity (smart contracts, NFTs) 
 
 **Books / Articles I'm enjoying**
 * Pragmatic Programmer - [book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
@@ -22,18 +22,18 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 
 | Area             |     Tech (including)        |     Professional Experience      |
 |:----------------:|-----------------------------|----------------------------------|
-| FE basics        |  HTML, CSS, JS              |  ~12 years                       |
-| SQL Databases    |  SQL, MySQL                 |  ~12 years                       |
-| .Net             |  C#, .Net, .Net Core        |  ~12 years                       |
-| APIs             |  RESTFul, WebAPI            |  ~10 years                       |
+| FE basics        |  HTML, CSS, JS              |  ~13 years                       |
+| SQL Databases    |  SQL, MySQL                 |  ~13 years                       |
+| .Net             |  C#, .Net, .Net Core        |  ~13 years                       |
+| APIs             |  RESTFul, WebAPI            |  ~11 years                       |
 | JS Frameworks    |  Angular, Typescript, React |  ~7 years                        |
 | Backend          |  PHP                        |  ~5 years                        |
-| JS Backend       |  Node                       |  ~5 years                        |
+| JS Backend       |  Node                       |  ~4 years                        |
 | NoSQL Databases  |  MongoDb                    |  ~3 years                        |
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
 | Other            |  GraphQL                    |  ~2 years                        |
-| Other            |  Microservices              |  ~2 years                        |
-| Other            |  Mobx                       |  ~1 years                        |
+| Other            |  Microservices, Mobx        |  ~2 years                        |
+| Other            |  Svelte, Solidity           |  ~1 years                        |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
@@ -42,6 +42,7 @@ To see what I've been working on for each technology please use the table below:
 |:----------:|------------------------------------------------|
 | .NET       | https://github.com/jasonj85/playground-.net https://github.com/jasonj85/coachjay |
 | Angular    | https://github.com/jasonj85/playground-angular |
+| Blockchain | https://github.com/jasonj85/playground-blockchain |
 | Bootstrap  | https://github.com/jasonj85/playground-bootstrap  https://github.com/jasonj85/playground-bootstrap4 |
 | CSS        | https://github.com/jasonj85/playground-advanced-css |
 | DI         | https://github.com/jasonj85/dependency-injection |
@@ -55,6 +56,7 @@ To see what I've been working on for each technology please use the table below:
 | React Native | https://github.com/jasonj85/playground-react-native |
 | RESTFul API | https://github.com/jasonj85/RESTful-API-2019 |
 | RXJS       | https://github.com/jasonj85/playground-rxjs |
+| Svelte     | https://github.com/jasonj85/playground-svelte |
 | Typescript | https://github.com/jasonj85/playground-typescript |
 | Xamarin    | https://github.com/jasonj85/playground-xamarin |
 
