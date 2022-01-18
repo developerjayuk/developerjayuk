@@ -22,7 +22,7 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 
 | Area             |     Tech (including)        |     Professional Experience      |
 |:----------------:|-----------------------------|----------------------------------|
-| FE basics        |  HTML, CSS, JS              |  ~13 years                       |
+| FE basics        |  HTML, CSS, Javascript      |  ~13 years                       |
 | SQL Databases    |  SQL, MySQL                 |  ~13 years                       |
 | .Net             |  C#, .Net, .Net Core        |  ~13 years                       |
 | APIs             |  RESTFul, WebAPI            |  ~11 years                       |
