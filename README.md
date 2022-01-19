@@ -9,7 +9,7 @@ One of my absolute passions in life is learning and as such I've worked with a t
 
 **My current areas of focus:** (these will change as time goes on)
 * React
-* .NET 5.0 (eCommerce)
+* .NET 6.0 (eCommerce)
 * svelte
 * solidity (smart contracts, NFTs) 
 
