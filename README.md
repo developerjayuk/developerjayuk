@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated Jan-2022)
+### Hi there 👋 and welcome to my profile (Updated Feb-2022)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -8,9 +8,9 @@ My name is Jason and I've been a web developer for around 15+ years (if we inclu
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
 **My current areas of focus:** (these will change as time goes on)
+* .NET 6.0 / C# Advanced concepts
 * React
-* .NET 6.0 (eCommerce)
-* svelte
+* Blazor server
 * solidity (smart contracts, NFTs) 
 
 **Books / Articles I'm enjoying**
