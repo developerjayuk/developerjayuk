@@ -70,14 +70,14 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 ❗ This obviously does not include any of the many large professional projects I've worked on for 10+ years.
 
 ### World of Cakes App and API
-**DEMO**: https://worldcakesclient.herokuapp.com/  
+**DEMO**: https://worldcakesclient.herokuapp.com/    
 **API**: https://worldcakesapi.herokuapp.com/api/cakes  
-**REPO**: https://github.com/jasonj85/worldofcakes-api 
-**REPO**: https://github.com/jasonj85/worldofcakes-client
+**REPO**: https://github.com/jasonj85/worldofcakes-api  
+**REPO**: https://github.com/jasonj85/worldofcakes-client  
 **TECH**: Node + Express (API), React (FE), Sqlite  
 **INFO**:  
 * Demo site that allows users to create, edit, delete cake data  
-* Demo for job application purposes
+* Demo for job application purposes  
 
 ### Quotes App and API
 **DEMO**: https://quotes-app-beige.vercel.app/quotes  
