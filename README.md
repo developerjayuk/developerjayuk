@@ -11,7 +11,7 @@ One of my absolute passions in life is learning and as such I've worked with a t
 * .NET 6.0 / C# Advanced concepts
 * React
 * Blazor server
-* solidity (smart contracts, NFTs) 
+* NodeJs
 
 **Books / Articles I'm enjoying**
 * Pragmatic Programmer - [book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
@@ -69,6 +69,16 @@ https://github.com/jasonj85/developerjay
 Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun.  
 ❗ This obviously does not include any of the many large professional projects I've worked on for 10+ years.
 
+### World of Cakes App and API
+**DEMO**: https://worldcakesclient.herokuapp.com/  
+**API**: https://worldcakesapi.herokuapp.com/api/cakes  
+**REPO**: https://github.com/jasonj85/worldofcakes-api 
+**REPO**: https://github.com/jasonj85/worldofcakes-client
+**TECH**: Node + Express (API), React (FE), Sqlite  
+**INFO**:  
+* Demo site that allows users to create, edit, delete cake data  
+* Demo for job application purposes
+
 ### Quotes App and API
 **DEMO**: https://quotes-app-beige.vercel.app/quotes  
 **API**: https://jj-nestjs-quotes-server.herokuapp.com/api  
@@ -79,7 +89,7 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 * Demo site that allows users to create, edit, delete quotes  
 * Demo of how to use NestJs to serve data and connect to frontend in Angular  
 
-## Demo of Tailwind CSS and js animations  
+### Demo of Tailwind CSS and js animations  
 **DEMO**: https://jasonj85.github.io/playground-javascript/animated-template/  
 **TECH**: Tailwind CSS, javascript animations   
 **INFO**:  
