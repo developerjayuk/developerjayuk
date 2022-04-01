@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated Feb-2022)
+### Hi there 👋 and welcome to my profile (Updated April-2022)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -9,8 +9,7 @@ One of my absolute passions in life is learning and as such I've worked with a t
 
 **My current areas of focus:** (these will change as time goes on)
 * .NET 6.0 / C# Advanced concepts
-* React
-* Blazor server
+* AWS
 * NodeJs
 
 **Books / Articles I'm enjoying**
