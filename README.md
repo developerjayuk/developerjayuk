@@ -68,6 +68,15 @@ https://github.com/jasonj85/developerjay
 Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun.  
 ❗ This obviously does not include any of the many large professional projects I've worked on for 10+ years.
 
+### Space Finder built on AWS
+**DEMO**: https://d2zsxlqsrio7xe.cloudfront.net/spaces.    
+**API**: https://crryyv9u6a.execute-api.eu-west-1.amazonaws.com/prod/ (requires cognito auth).  
+**REPO**: https://github.com/jasonj85/playground-aws/tree/main/Demos/spaceFinder.   
+**TECH**: Node, Typescript, AWS CDK (API), React (FE). Both hosted on AWS 
+**INFO**:  
+* Demo mainly of how to create a Node + Typescript API on AWS
+* AWS CDK, DynamoDB, Cognito, Amplify, Lambda, IAM, S3 buckets 
+
 ### World of Cakes App and API
 **DEMO**: https://worldcakesclient.herokuapp.com/    
 **API**: https://worldcakesapi.herokuapp.com/api/cakes  
