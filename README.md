@@ -7,10 +7,11 @@ My name is Jason and I've been a web developer for around 15+ years (if we inclu
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
-**My current areas of focus:** (these will change as time goes on)
-* Jest 
-* AWS
+**My current areas of focus for my mini projects:** (these will change as time goes on)
+* Node 
+* Microservices
 * .Net Core
+* React
 
 **Books / Articles I'm enjoying**
 * Pragmatic Programmer - [book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
@@ -67,6 +68,14 @@ https://github.com/jasonj85/developerjay
 ## 🌟 Pinned projects 🌟
 Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun.  
 ❗ This obviously does not include any of the many large professional projects I've worked on for 10+ years.
+
+### .NET 6 Web API Demo
+**API**: tbc 
+**REPO**: https://github.com/jasonj85/playground-.net/tree/main/WebAPI/TodoApp  
+**TECH**: .NET 6 Web API, Blazor, SQL  
+**INFO**:  
+* Demo API for the creation of a Todo List
+* Creation of multiple examples of .NET 6 APIs
 
 ### Space Finder built on AWS
 **DEMO**: https://d2zsxlqsrio7xe.cloudfront.net/       
