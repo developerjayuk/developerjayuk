@@ -10,10 +10,11 @@ One of my absolute passions in life is learning and as such I've worked with a t
 **My current areas of focus for my mini projects:** (these will change as time goes on)
 * Node 
 * Microservices
-* .Net Core
+* .Net 6
 * React
 
 **Books / Articles I'm enjoying**
+* Engineer's Survival Guide - [book](https://www.amazon.co.uk/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 * Pragmatic Programmer - [book](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
 * Reflections on 10,000 hours of programming - [article](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 
