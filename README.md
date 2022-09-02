@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated July-2022)
+### Hi there 👋 and welcome to my profile (Updated September-2022)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -9,9 +9,7 @@ One of my absolute passions in life is learning and as such I've worked with a t
 
 **My current areas of focus for my mini projects:** (these will change as time goes on)
 * Node 
-* Microservices
-* .Net 6
-* React
+* Vue
 
 **Books / Articles I'm enjoying**
 * Engineer's Survival Guide - [book](https://www.amazon.co.uk/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
