@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated September-2022)
+### Hi there 👋 and welcome to my profile (Updated November-2022)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -10,6 +10,7 @@ One of my absolute passions in life is learning and as such I've worked with a t
 **My current areas of focus for my mini projects:** (these will change as time goes on)
 * Node 
 * Vue
+* Dynamics 365 
 
 **Books / Articles I'm enjoying**
 * Engineer's Survival Guide - [book](https://www.amazon.co.uk/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
@@ -32,7 +33,7 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
 | Other            |  GraphQL                    |  ~2 years                        |
 | Other            |  Microservices, Mobx        |  ~2 years                        |
-| Other            |  Svelte, Solidity           |  ~1 years                        |
+| Other            |  Svelte, Solidity, Vue      |  ~1 years                        |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
@@ -58,6 +59,7 @@ To see what I've been working on for each technology please use the table below:
 | RXJS       | https://github.com/jasonj85/playground-rxjs |
 | Svelte     | https://github.com/jasonj85/playground-svelte |
 | Typescript | https://github.com/jasonj85/playground-typescript |
+| Vue        | https://github.com/jasonj85/playground-vue |
 | Xamarin    | https://github.com/jasonj85/playground-xamarin |
 
 My developer profile which was built using the MERN (Mongo, Express, React, Node) stack can be seen at:  
