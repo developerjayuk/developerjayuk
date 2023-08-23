@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated December-2022)
+### Hi there 👋 and welcome to my profile (Updated August-2023)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -22,18 +22,18 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 
 | Area             |     Tech (including)        |     Professional Experience      |
 |:----------------:|-----------------------------|----------------------------------|
-| FE basics        |  HTML, CSS, Javascript      |  ~13 years                       |
-| SQL Databases    |  SQL, MySQL                 |  ~13 years                       |
-| .Net             |  C#, .Net, .Net Core        |  ~13 years                       |
-| APIs             |  RESTFul, WebAPI            |  ~11 years                       |
-| JS Frameworks    |  Angular, Typescript, React |  ~7 years                        |
+| FE basics        |  HTML, CSS, Javascript      |  ~14 years                       |
+| SQL Databases    |  SQL, MySQL                 |  ~14 years                       |
+| .Net             |  C#, .Net, .Net Core        |  ~14 years                       |
+| APIs             |  RESTFul, WebAPI            |  ~12 years                       |
+| JS Frameworks    |  Angular, Typescript, React |  ~8 years                        |
 | Backend          |  PHP                        |  ~5 years                        |
-| JS Backend       |  Node                       |  ~4 years                        |
+| JS Backend       |  Node                       |  ~5 years                        |
 | NoSQL Databases  |  MongoDb                    |  ~3 years                        |
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
-| Other            |  GraphQL                    |  ~2 years                        |
-| Other            |  Microservices, Mobx        |  ~2 years                        |
-| Other            |  Svelte, Solidity, Vue      |  ~1 years                        |
+| Other            |  GraphQL                    |  ~3 years                        |
+| Other            |  Microservices, Mobx        |  ~3 years                        |
+| Other            |  Svelte, Solidity, Vue      |  ~2 years                        |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
