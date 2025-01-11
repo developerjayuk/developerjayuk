@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated August-2023)
+### Hi there 👋 and welcome to my profile (Updated January 2025)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
@@ -22,13 +22,13 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 
 | Area             |     Tech (including)        |     Professional Experience      |
 |:----------------:|-----------------------------|----------------------------------|
-| FE basics        |  HTML, CSS, Javascript      |  ~14 years                       |
-| SQL Databases    |  SQL, MySQL                 |  ~14 years                       |
-| .Net             |  C#, .Net, .Net Core        |  ~14 years                       |
-| APIs             |  RESTFul, WebAPI            |  ~12 years                       |
+| FE basics        |  HTML, CSS, Javascript      |  ~15 years                       |
+| SQL Databases    |  SQL, MySQL                 |  ~15 years                       |
+| .Net             |  C#, .Net, .Net Core        |  ~15 years                       |
+| APIs             |  RESTFul, WebAPI            |  ~13 years                       |
 | JS Frameworks    |  Angular, Typescript, React |  ~8 years                        |
-| Backend          |  PHP                        |  ~5 years                        |
-| JS Backend       |  Node                       |  ~5 years                        |
+| Backend          |  PHP                        |  ~6 years                        |
+| JS Backend       |  Node                       |  ~6 years                        |
 | NoSQL Databases  |  MongoDb                    |  ~3 years                        |
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
 | Other            |  GraphQL                    |  ~3 years                        |
@@ -62,7 +62,7 @@ To see what I've been working on for each technology please use the table below:
 | Vue        | https://github.com/jasonj85/playground-vue |
 | Xamarin    | https://github.com/jasonj85/playground-xamarin |
 
-My developer profile which was built using the MERN (Mongo, Express, React, Node) stack can be seen at:  
+My developer profile (2025) which was built using the React, NextJs,  can be seen at:  
 https://developerJay.uk  
 https://github.com/jasonj85/developerjay
 
