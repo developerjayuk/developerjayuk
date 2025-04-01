@@ -1,4 +1,4 @@
-![Developer Jay](https://github.com/developerjayuk/developerjayuk/blob/master/github-header.png)
+![Developer Jay](https://github.com/developerjayuk/developerjayuk/blob/master/github-header.jpg)
 
 ### Hi there 👋 and welcome to my profile (Updated April 2025)
 
