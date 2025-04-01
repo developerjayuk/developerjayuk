@@ -1,16 +1,16 @@
-![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-profile.jpg)
+![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-header.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated January 2025)
+### Hi there 👋 and welcome to my profile (Updated April 2025)
 
 ## ⁉️ Who am I? ⁉️
-My name is Jason and I've been a web developer for around 15+ years (if we include my college and university studies).
+My name is Jason and I've been a web developer for around 20 years (if we include my college and university studies).
 
 One of my absolute passions in life is learning and as such I've worked with a tonne of different technologies in the past and continue to spend atleast 1-2 hours expanding my web development knowledge everyday.
 
 **My current areas of focus for my mini projects:** (these will change as time goes on)
-* Node 
-* Vue
-* Dynamics 365 
+* Working with AI Apis, ChatGPT / Langchain etc... 
+* Next.js
+* .Net Core C# E-commerce 
 
 **Books / Articles I'm enjoying**
 * Engineer's Survival Guide - [book](https://www.amazon.co.uk/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
