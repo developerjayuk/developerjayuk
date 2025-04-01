@@ -1,4 +1,4 @@
-![Developer Jay](https://github.com/jasonj85/jasonj85/blob/master/github-header.png)
+![Developer Jay](https://github.com/developerjayuk/developerjayuk/blob/master/github-header.png)
 
 ### Hi there 👋 and welcome to my profile (Updated April 2025)
 
@@ -22,49 +22,51 @@ Being the obsessive learner I am, I have dabbled with most areas of web developm
 
 | Area             |     Tech (including)        |     Professional Experience      |
 |:----------------:|-----------------------------|----------------------------------|
-| FE basics        |  HTML, CSS, Javascript      |  ~15 years                       |
+| FE basics        |  HTML, CSS, Javascript      |  ~20 years                       |
 | SQL Databases    |  SQL, MySQL                 |  ~15 years                       |
 | .Net             |  C#, .Net, .Net Core        |  ~15 years                       |
 | APIs             |  RESTFul, WebAPI            |  ~13 years                       |
 | JS Frameworks    |  Angular, Typescript, React |  ~8 years                        |
-| Backend          |  PHP                        |  ~6 years                        |
-| JS Backend       |  Node                       |  ~6 years                        |
+| JS Backend       |  Node                       |  ~8 years                        |
+| Cloud Services   |  AWS, Azure                 |  ~7 years                        |
+| Backend          |  PHP                        |  ~6 years                        |           
 | NoSQL Databases  |  MongoDb                    |  ~3 years                        |
 | Mobile Dev'      |  Xamarin, React Native      |  ~2 years                        |
-| Other            |  GraphQL                    |  ~3 years                        |
-| Other            |  Microservices, Mobx        |  ~3 years                        |
-| Other            |  Svelte, Solidity, Vue      |  ~2 years                        |
+| Other            |  Microservices, Mobx, Vue   |  ~3 years                        |
+| Other            |  Docker, Jenkins            |  ~2 years                        |
+| Other            |  Svelte, Next.js, Tailwind  |  ~2 years                        |
+| Other            |  Python                     |  ~6 months                       |
 
 ## 🔍 Repository Navigation 🔍
 To see what I've been working on for each technology please use the table below:
 
 | Technology |                   Repository                   |
 |:----------:|------------------------------------------------|
-| .NET       | https://github.com/jasonj85/playground-.net https://github.com/jasonj85/coachjay |
-| Angular    | https://github.com/jasonj85/playground-angular |
-| Blockchain | https://github.com/jasonj85/playground-blockchain |
-| Bootstrap  | https://github.com/jasonj85/playground-bootstrap  https://github.com/jasonj85/playground-bootstrap4 |
-| CSS        | https://github.com/jasonj85/playground-advanced-css |
-| DI         | https://github.com/jasonj85/dependency-injection |
-| GraphQL    | https://github.com/jasonj85/playground-graphql | 
-| Javascript | https://github.com/jasonj85/playground-javascript |  
-| JQuery     | https://github.com/jasonj85/playground-jquery |
-| Microservices | https://github.com/jasonj85/playground-microservices |
-| NestJs     | https://github.com/jasonj85/playground-nestjs |
-|  Node      | https://github.com/jasonj85/playground-nodejs  |
-| PWA        | https://github.com/jasonj85/playground-progressive-web-apps |
-| React      | https://github.com/jasonj85/playground-react |
-| React Native | https://github.com/jasonj85/playground-react-native |
-| RESTFul API | https://github.com/jasonj85/RESTful-API-2019 |
-| RXJS       | https://github.com/jasonj85/playground-rxjs |
-| Svelte     | https://github.com/jasonj85/playground-svelte |
-| Typescript | https://github.com/jasonj85/playground-typescript |
-| Vue        | https://github.com/jasonj85/playground-vue |
-| Xamarin    | https://github.com/jasonj85/playground-xamarin |
+| .NET       | https://github.com/developerjayuk/playground-.net https://github.com/developerjayuk/coachjay |
+| Angular    | https://github.com/developerjayuk/playground-angular |
+| Blockchain | https://github.com/developerjayuk/playground-blockchain |
+| Bootstrap  | https://github.com/developerjayuk/playground-bootstrap  https://github.com/developerjayuk/playground-bootstrap4 |
+| CSS        | https://github.com/developerjayuk/playground-advanced-css |
+| DI         | https://github.com/developerjayuk/dependency-injection |
+| GraphQL    | https://github.com/developerjayuk/playground-graphql | 
+| Javascript | https://github.com/developerjayuk/playground-javascript |  
+| JQuery     | https://github.com/developerjayuk/playground-jquery |
+| Microservices | https://github.com/developerjayuk/playground-microservices |
+| NestJs     | https://github.com/developerjayuk/playground-nestjs |
+|  Node      | https://github.com/developerjayuk/playground-nodejs  |
+| PWA        | https://github.com/developerjayuk/playground-progressive-web-apps |
+| React      | https://github.com/developerjayuk/playground-react |
+| React Native | https://github.com/developerjayuk/playground-react-native |
+| RESTFul API | https://github.com/developerjayuk/RESTful-API-2019 |
+| RXJS       | https://github.com/developerjayuk/playground-rxjs |
+| Svelte     | https://github.com/developerjayuk/playground-svelte |
+| Typescript | https://github.com/developerjayuk/playground-typescript |
+| Vue        | https://github.com/developerjayuk/playground-vue |
+| Xamarin    | https://github.com/developerjayuk/playground-xamarin |
 
 My developer profile (2025) which was built using the React, NextJs,  can be seen at:  
-https://developerJay.uk  
-https://github.com/jasonj85/developerjay
+https://developerJay.com 
+https://github.com/developerjayuk/developerjay
 
 ## 🌟 Pinned projects 🌟
 Below you'll find a few of the personal projects I work on in my spare time to learn different concepts and to have fun.  
@@ -72,7 +74,7 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 
 ### .NET 6 Web API Demo
 **API**: tbc 
-**REPO**: https://github.com/jasonj85/playground-.net/tree/main/WebAPI/TodoApp  
+**REPO**: https://github.com/developerjayuk/playground-.net/tree/main/WebAPI/TodoApp  
 **TECH**: .NET 6 Web API, Blazor, SQL  
 **INFO**:  
 * Demo API for the creation of a Todo List
@@ -81,7 +83,7 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 ### Space Finder built on AWS
 **DEMO**: https://d2zsxlqsrio7xe.cloudfront.net/       
 **API**: https://crryyv9u6a.execute-api.eu-west-1.amazonaws.com/prod/ (requires cognito auth)   
-**REPO**: https://github.com/jasonj85/playground-aws/tree/main/Demos/spaceFinder  
+**REPO**: https://github.com/developerjayuk/playground-aws/tree/main/Demos/spaceFinder  
 **TECH**: Node, Typescript, AWS CDK (API), React (FE). Both hosted on AWS 
 **INFO**:  
 * Demo mainly of how to create a Node + Typescript API on AWS
@@ -90,8 +92,8 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 ### World of Cakes App and API
 **DEMO**: https://worldcakesclient.herokuapp.com/    
 **API**: https://worldcakesapi.herokuapp.com/api/cakes  
-**REPO**: https://github.com/jasonj85/worldofcakes-api  
-**REPO**: https://github.com/jasonj85/worldofcakes-client  
+**REPO**: https://github.com/developerjayuk/worldofcakes-api  
+**REPO**: https://github.com/developerjayuk/worldofcakes-client  
 **TECH**: Node + Express (API), React (FE), Sqlite  
 **INFO**:  
 * Demo site that allows users to create, edit, delete cake data  
@@ -100,37 +102,37 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 ### Quotes App and API
 **DEMO**: https://quotes-app-beige.vercel.app/quotes  
 **API**: https://jj-nestjs-quotes-server.herokuapp.com/api  
-**REPO**: https://github.com/jasonj85/playground-nestjs/tree/master/quotes-app  
-**REPO**: https://github.com/jasonj85/playground-nestjs/tree/master/quotes-server   
+**REPO**: https://github.com/developerjayuk/playground-nestjs/tree/master/quotes-app  
+**REPO**: https://github.com/developerjayuk/playground-nestjs/tree/master/quotes-server   
 **TECH**: NestJs + Swagger (API), Angular (FE), MongoDB  
 **INFO**:  
 * Demo site that allows users to create, edit, delete quotes  
 * Demo of how to use NestJs to serve data and connect to frontend in Angular  
 
 ### Demo of Tailwind CSS and js animations  
-**DEMO**: https://jasonj85.github.io/playground-javascript/animated-template/  
+**DEMO**: https://developerjayuk.github.io/playground-javascript/animated-template/  
 **TECH**: Tailwind CSS, javascript animations   
 **INFO**:  
 * Demo site using tailwind CSS and additional javascript animations  
 
 ### Movie App using React Hooks
 **DEMO**: https://react-hooks-movie-app.vercel.app         
-**REPO**: https://github.com/jasonj85/playground-react/tree/master/react-hooks-movie-app  
+**REPO**: https://github.com/developerjayuk/playground-react/tree/master/react-hooks-movie-app  
 **TECH**: React  
 **INFO**: 
 * Demo react site that uses react hooks 
 * Uses TMDB API to search and retrieve latest popular movies
 
 ### Flexbox responsive demo
-**DEMO**: https://jasonj85.github.io/playground-advanced-css/Flexbox  
-**REPO**: https://github.com/jasonj85/playground-advanced-css/tree/master/Flexbox  
+**DEMO**: https://developerjayuk.github.io/playground-advanced-css/Flexbox  
+**REPO**: https://github.com/developerjayuk/playground-advanced-css/tree/master/Flexbox  
 **TECH**: HTML, CSS (flexbox)  
 **INFO**:
 * Responsive page using features of flexbox
 
 ### Movie Geek
 **DEMO**: https://movie-geek.vercel.app      
-**REPO**: https://github.com/jasonj85/playground-angular/tree/master/movie-geek-pwa  
+**REPO**: https://github.com/developerjayuk/playground-angular/tree/master/movie-geek-pwa  
 **TECH**: Angular as a Progressive Web App  
 **INFO**: 
 * Demo site that allows users to search through a movie API
@@ -138,14 +140,14 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 
 ### Developer Jay Profile 
 **DEMO**: http://developerjay.uk    
-**REPO**: https://github.com/jasonj85/developerjay  
+**REPO**: https://github.com/developerjayuk/developerjay  
 **TECH**: MERN stack  
 **INFO**: 
 * Site to display developer profiles
 
 ### I, Robot Comedian
-**DEMO**: https://jasonj85.github.io/playground-javascript/i-robot-comedian   
-**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/i-robot-comedian  
+**DEMO**: https://developerjayuk.github.io/playground-javascript/i-robot-comedian   
+**REPO**: https://github.com/developerjayuk/playground-javascript/tree/master/i-robot-comedian  
 **TECH**: Javascript  
 **INFO**:
 * Just a robot comedian trying to make it in the stand up comedy world
@@ -153,21 +155,21 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 
 ### Breaking Bad API
 **DEMO**: https://breaking-bad-api-nu.vercel.app  
-**REPO**: https://github.com/jasonj85/playground-react/tree/master/breaking-bad-api  
+**REPO**: https://github.com/developerjayuk/playground-react/tree/master/breaking-bad-api  
 **TECH**: React  
 **INFO**:
 * App that searches the breaking bad API and filters all the characters
 
 ### Bootstrap 4
-**DEMO**: https://jasonj85.github.io/playground-bootstrap4/2_2_basic_typography.html  
-**REPO**: https://github.com/jasonj85/playground-bootstrap4  
+**DEMO**: https://developerjayuk.github.io/playground-bootstrap4/2_2_basic_typography.html  
+**REPO**: https://github.com/developerjayuk/playground-bootstrap4  
 **TECH**: Bootstrap (version 4)  
 **INFO**: 
 * Demo of all the features available in bootstrap version 4
 
 ### Picture in Picture
-**DEMO**: https://jasonj85.github.io/playground-javascript/picture-in-picture  
-**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/picture-in-picture  
+**DEMO**: https://developerjayuk.github.io/playground-javascript/picture-in-picture  
+**REPO**: https://github.com/developerjayuk/playground-javascript/tree/master/picture-in-picture  
 **TECH**: Javascript  
 **INFO**:
 * This app allows users to create a picture in picture environment on their screen
@@ -181,24 +183,24 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 * An app that allows filtering of live jobs from the github jobs API
 
 ### Inifinite Scroll
-**DEMO**: https://jasonj85.github.io/playground-javascript/infinite-scroll  
-**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/infinite-scroll  
+**DEMO**: https://developerjayuk.github.io/playground-javascript/infinite-scroll  
+**REPO**: https://github.com/developerjayuk/playground-javascript/tree/master/infinite-scroll  
 **TECH**: Javascript  
 **INFO**: 
 * This app allows users to infinity scroll images 
 * Image are lazy loaded via a free image API
 
 ### Quote Generator
-**DEMO**: https://jasonj85.github.io/playground-javascript/quote-generator  
-**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/quote-generator  
+**DEMO**: https://developerjayuk.github.io/playground-javascript/quote-generator  
+**REPO**: https://github.com/developerjayuk/playground-javascript/tree/master/quote-generator  
 **TECH**: Javascript  
 **INFO**:
 * This app creates quotes using an API
 * Allows users to post the quote to their Twitter account
 
 ### Pig Dice Game
-**DEMO**: https://jasonj85.github.io/playground-javascript/Pig-Dice-Game  
-**REPO**: https://github.com/jasonj85/playground-javascript/tree/master/Pig-Dice-Game  
+**DEMO**: https://developerjayuk.github.io/playground-javascript/Pig-Dice-Game  
+**REPO**: https://github.com/developerjayuk/playground-javascript/tree/master/Pig-Dice-Game  
 **TECH**: Javascript  
 **INFO**:
 * This game is designed for 2 players
@@ -208,7 +210,7 @@ Below you'll find a few of the personal projects I work on in my spare time to l
 * The first player to reach the "Winning score" (default = 100) wins the game
 
 <!--
-**jasonj85/jasonj85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**developerjayuk/developerjayuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
