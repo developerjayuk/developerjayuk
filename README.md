@@ -1,6 +1,6 @@
 ![Developer Jay](https://github.com/developerjayuk/developerjayuk/blob/master/github-header.jpg)
 
-### Hi there 👋 and welcome to my profile (Updated April 2025)
+### Hi there 👋 and welcome to my profile (Updated August 2025)
 
 ## ⁉️ Who am I? ⁉️
 My name is Jason and I've been a web developer for around 20 years (if we include my college and university studies).
@@ -48,6 +48,7 @@ To see what I've been working on for each technology please use the table below:
 | Bootstrap  | https://github.com/developerjayuk/playground-bootstrap  https://github.com/developerjayuk/playground-bootstrap4 |
 | CSS        | https://github.com/developerjayuk/playground-advanced-css |
 | DI         | https://github.com/developerjayuk/dependency-injection |
+| Flutter    | https://github.com/developerjayuk/flutter |
 | GraphQL    | https://github.com/developerjayuk/playground-graphql | 
 | Javascript | https://github.com/developerjayuk/playground-javascript |  
 | JQuery     | https://github.com/developerjayuk/playground-jquery |
