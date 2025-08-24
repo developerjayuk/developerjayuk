@@ -48,7 +48,7 @@ To see what I've been working on for each technology please use the table below:
 | Bootstrap  | https://github.com/developerjayuk/playground-bootstrap  https://github.com/developerjayuk/playground-bootstrap4 |
 | CSS        | https://github.com/developerjayuk/playground-advanced-css |
 | DI         | https://github.com/developerjayuk/dependency-injection |
-| Flutter    | https://github.com/developerjayuk/flutter |
+| Flutter    | https://github.com/developerjayuk/playground-flutter |
 | GraphQL    | https://github.com/developerjayuk/playground-graphql | 
 | Javascript | https://github.com/developerjayuk/playground-javascript |  
 | JQuery     | https://github.com/developerjayuk/playground-jquery |
